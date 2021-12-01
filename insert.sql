@@ -1,10 +1,10 @@
 INSERT INTO genres(name)
 VALUES
-	('Поп-музыка'), 
-	('Рок'), 
-	('Хип-Хоп/Рэп'), 
+	('РџРѕРї-РјСѓР·С‹РєР°'), 
+	('Р РѕРє'), 
+	('РҐРёРї-РҐРѕРї/Р СЌРї'), 
 	('Dance/Electronic/House'), 
-	('Авторская музыка(барды)');
+	('РђРІС‚РѕСЂСЃРєР°СЏ РјСѓР·С‹РєР°(Р±Р°СЂРґС‹)');
 
 
 INSERT INTO performers(name)
@@ -16,7 +16,7 @@ VALUES
 	('Sheff G'),
 	('Melii'),
 	('Knife Party'),
-	('Азанов Евгений Васильевич');
+	('РђР·Р°РЅРѕРІ Р•РІРіРµРЅРёР№ Р’Р°СЃРёР»СЊРµРІРёС‡');
 
 
 INSERT INTO genresperformers(genre_id, performers_id)
